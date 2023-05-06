@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Starting Div */
+
+.startdiv
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: white;
+}
+
+.start-select
+{
+    border: none;
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+.firstbutton
+{
+    background-color: white;
+    color: rgb(29, 23, 41);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50px;
+    float: right;
+    margin-top: -50px;
+}
+
+.wrapper1{
+    padding-top: 100px;
+    width: 100%;
+}
+
+.left-top
+{
+    float: left;
+}
+
+.right-top
+{
+    float: right;
+}
+
+/* services */
+
+.services
+{
+    padding: 70px;
+    background-color: rgb(243, 243, 243);
+    margin-top: 600px;
+}
+
+.a2{
+    font-size: 15px; 
+    padding: 0;
+    color: rgb(0, 92, 230);
+    text-decoration: none;
+    /* margin-top: 150px; */
+    font-size: 15px;
+    float: right;
+}
+
+.service-button
+{
+    padding:10px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 250px;
+    margin-right: 45px;
+}
+
+
+/* Customers */
+.customers
+{
+    padding: 100px;
+}
+
+.customers-right
+{
+    margin-left:700px;
+    height: 300px;
+    /* margin-top: -400px */
+}
+/* Security  */
+
+.security
+{
+    padding: 100px;
+    /* margin: auto; */
+}
+
+.security-left
+{
+    float: left;
+    /* clear: both; */
+}
+.security-right
+{
+    margin-top: -300px;
+    margin-left: 400px;
+    width: 700px;
+    height: 300px;
+}
+/* Mentor */
+.mentor
+{
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+
+.wrapper1
+{
+    float: left;
+    clear: both;
+    margin-right: 70px;
+}
+
+.img1{
+    width: 330px;
+    height: 280px;
+}
+
+.mentor-button
+{
+    padding: 13px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 50px;
+}
+
+
+/* FAQs */
+.faq
+{
+    text-align: center;
+    padding: 100px;
+}
+
+.faq2
+{
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    /* border: 2px solid black; */
+    width: auto;
+    /* float: left; */
+    font-size: 25px;
+}
+
+.faq3
+{
+    float: right;
+}
+
+/* Subscribe  */
+
+.subscribe
+{
+    padding: 40px;
+    background-color: rgb(240, 240, 240);
+}
+
+.subscribe-input
+{
+    padding: 13px;
+    border-radius: 10px;
+    margin-left: 330px;
+    width: 480px;
+}
+
+.subscribe-button
+{
+    padding: 13px;
+    border-radius: 10px;
+    background-color: rgb(17, 17, 63);
+    color: white;
+}
+
+/* Last blue div  */
+
+.last1{
+    width: 310px;
+    float: left;
+    clear: both;
+}
+
+.last2
+{
+    width: auto;
+    margin-left: 350px;
+    margin-top: 0px;
+    clear: right;
+}
+.last3
+{
+    width: auto;
+    margin-left: 650px;
+    margin-top: -167.9px;
+    clear: right;
+}
+
+.last4
+{
+    width: auto;
+    margin-left: 900px;
+    margin-top: -205px;
+    margin-right: 100px;
+}
+
+.lastbutton
+{
+    background-color: white;
+    color: rgb(29, 23, 41);
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.text1{
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.enddiv
+{
+    color: white;
+    background-color: rgb(22, 22, 44);
+    margin: auto;
+    width: auto;
+    height: 300px;
+    padding-left: 100px;
+    padding-right: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.left1
+{
+    float: left;
+    clear: both;
+    font-size:40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+.right1
+{
+    font-size: 40px;
+}
+
+.a1{
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 150px;
+    font-size: 15px;
+}
